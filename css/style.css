@@ -1,8 +1,22 @@
 .header1 {
     background-color:bisque;
-    color:rgb(114, 6, 255)
+    color:rgb(114, 6, 255);
+    text-align: center;
+    font-size: 65px;
+}
+
+.bigger{
+    font-size: 33px;
+    font-weight: bold;
 }
 
 a {
     color:brown;
+    font-family:'Lucida Console', Papyrus, monospace;
+    font-weight: bold;
 }
+
+.list-color{
+    background-color: rgb(198, 223, 223);
+}
+
